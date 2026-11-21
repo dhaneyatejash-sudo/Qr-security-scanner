@@ -1,0 +1,1 @@
+# Qr-security-scanner
